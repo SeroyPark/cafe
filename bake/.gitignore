@@ -1,0 +1,4 @@
+*.pyc
+*~
+*.cpy
+_pycache_

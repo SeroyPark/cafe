@@ -19,6 +19,13 @@
         background-color: black;
         color: white;
     }
+    footer {
+	background: lightgray;
+	height: 40px;
+}
+
+
+
 
     img {
         width: 150px;
