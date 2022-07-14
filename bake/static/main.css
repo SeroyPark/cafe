@@ -1,24 +1,37 @@
 
     h1 {
-        color: blue;
-
+        color: blueviolet;
+        position: relative;
+        left: 40%;
+        top: 30%;
+        font-size: xxx-large;
 
     }
 
     button.btn1{
-        background-color: black;
-        color: white;
+        background-color: whitesmoke;
+        position: relative;
+        font-size: x-large;
+        left: 38%;
+        top: 40%;
     }
-
     button.btn2{
-        background-color: black;
-        color: white;
+        background-color: whitesmoke;
+        position: relative;
+        font-size: x-large;
+        left: 40%;
+        top: 40%;
     }
 
     button.btn3{
-        background-color: black;
-        color: white;
+        background-color: whitesmoke;
+        position: relative;
+        font-size: x-large;
+        left: 42%;
+        top: 40%;
     }
+
+
     footer {
 	background: lightgray;
 	height: 40px;
@@ -27,8 +40,9 @@
 
 
 
-    img {
-        width: 150px;
+    body {
+        background-image:url("img/bread.jpg");
+        background-position: center center;
 
     }
 
