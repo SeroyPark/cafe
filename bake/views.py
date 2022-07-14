@@ -7,3 +7,5 @@ def main(request):
     return render(request, 'bake/main.html', {'posts': posts})
 
 
+def main(request):
+    return render(request, 'bake/main.html', {})
