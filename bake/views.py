@@ -11,3 +11,5 @@ def ja(request):
     return render(request, 'bake/ja.html', {})
 def yong(request):
     return render(request, 'bake/yong.html', {})
+def new(request):
+    return render(request, 'bake/jawrite.html', {})
