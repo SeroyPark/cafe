@@ -10,3 +10,20 @@
     overflow-x:hidden;
     padding-top:20px;
 }
+
+.jalist a {
+    padding: 60px 8px 6px;
+    text-decoration: none;
+    front-size: 25px;
+    color: #ffff;
+    display: block;
+}
+
+.jalist a:hover {
+    color:#ffff;
+}
+.main{
+    margin-left:160px;
+    padding: 0px 10px;
+
+}
