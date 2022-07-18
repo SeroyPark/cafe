@@ -1,4 +1,12 @@
 
-h3{
-    color:#00ff00;
+.jalist{
+    height:100%;
+    width:100px;
+    position: fixed;
+    z-index:1;
+    top:0;
+    left:0;
+    background-color:#00ff00;
+    overflow-x:hidden;
+    padding-top:20px;
 }
